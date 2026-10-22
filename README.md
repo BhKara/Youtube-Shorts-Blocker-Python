@@ -9,7 +9,7 @@ Technologies Used
 The coding environment used for this project is primarily through Python and the chrome web browser. To run this code, users must download 'selenium' through the following steps below.
 
 Installing Selenium
-NOTE: Be sure to not include the "" in the terminal
+(NOTE: Be sure to not include the "" in the terminal)
 For Windows
 1. Open command prompt
 2. Paste the following: "pip install selenium"
