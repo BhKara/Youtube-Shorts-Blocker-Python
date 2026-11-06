@@ -6,6 +6,7 @@ This is a uni assignment for a design course. I spend too much on Youtube. Over 
 
 
 Dependencies
+
 The coding environment used for this project is primarily through Python and the chrome web browser. To run this code, users must download 'selenium' through the following steps below.
 
 Installing Selenium
