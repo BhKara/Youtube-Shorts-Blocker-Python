@@ -8,10 +8,10 @@ driver = webdriver.Chrome()
 driver.get("https://www.youtube.com")
 
 #Timer
-SECONDS = 10
+seconds = 10
 
 while True:
-        for remaining in range(SECONDS, 0, -1):
+        for remaining in range(seconds, 0, -1):
                 print(f"{remaining:2d} seconds left", end="\r")
                 time.sleep(1)
 #This part is just aesthetic, but doesn't look that good on the console.
