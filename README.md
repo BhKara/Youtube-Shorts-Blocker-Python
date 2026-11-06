@@ -1,6 +1,7 @@
 # Youtube-Shorts-Blocker-Python
 
 General Info
+
 This is a uni assignment for a design course. I spend too much on Youtube. Over the last year I've spend too much time on Youtube shorts. I want to want to be more productive, so for the creative coding tutorial I coded a Python program that would help me spend less time on Youtube shorts.
  This is a simple Selenium project whose aim is to be a shorts blocker that rewinds the YouTube page when "/shorts/" is detected.
 
