@@ -13,6 +13,9 @@ The coding environment used for this project is primarily through Python and the
 _Installing Chrome_
 https://www.google.com/intl/en_au/chrome/
 
+__Installing Python__
+https://www.python.org/downloads/
+
 _Installing Selenium_
 (NOTE: Be sure to not include the "" in the terminal)
 For Windows
