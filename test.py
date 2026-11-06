@@ -12,8 +12,8 @@ SECONDS = 10
 
 while True:
         for remaining in range(SECONDS, 0, -1):
-            print(f"\r{remaining:2d} seconds left",flush=True)
-            time.sleep(1)
+                print(f"{remaining:2d} seconds left", end="\r")
+                time.sleep(1)
 #This part is just aesthetic, but doesn't look that good on the console.
         print("Checking URL...")
 
